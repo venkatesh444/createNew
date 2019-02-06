@@ -5,6 +5,7 @@
     <classes>
       <class name="NewOpep.Fun.Alerttext"/>
       <class name="NewOpep.Fun.Freecrm_ifame"></class>
+      <class name="NewOpep.Fun.Gmail_window"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
